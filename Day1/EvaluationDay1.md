@@ -184,11 +184,11 @@ curl http://localhost:3000/unknown
 
 ### Checklist avant de soumettre
 
-- [ ] `npm start` lance le serveur sans erreur
-- [ ] `db.json` est modifié après un POST (persistance vérifiable)
-- [ ] Toutes les routes retournent du JSON valide
-- [ ] `node_modules/` absent du commit
-- [ ] Le code est dans `evaluation-day1/`
+- [x] `npm start` lance le serveur sans erreur
+- [x] `db.json` est modifié après un POST (persistance vérifiable)
+- [x] Toutes les routes retournent du JSON valide
+- [x] `node_modules/` absent du commit
+- [x] Le code est dans `evaluation-day1/`
 
 ```bash
 git add evaluation-day1/
